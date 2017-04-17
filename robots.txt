@@ -1,0 +1,39 @@
+User-agent: Yahoo! Slurp
+Disallow: /
+
+User-agent: Yahoo-MMCrawler
+Disallow: /
+
+User-agent: Googlebot-Image
+Disallow: /
+
+User-agent: BaiduImagespider
+Disallow: /
+
+User-agent: BaiduMobaider
+Disallow: /
+
+User-agent: baiduspider
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: Baiduspider+
+Disallow: /
+
+User-agent: psbot
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-Agent: Googlebot
+Allow: /
+Disallow: /up/files/
+Disallow: /forum/files/
+
+User-agent: DuckDuckBot
+Allow: /
+Disallow: /up/files/
+Disallow: /forum/files/
